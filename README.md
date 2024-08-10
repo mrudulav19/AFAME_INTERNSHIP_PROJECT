@@ -15,7 +15,9 @@ To install and run the Calculator App on your Android device, follow these steps
 # Clone the Repository
 bash
 Copy code
+
 git clone https://github.com/your-username/calculator-app.git
+
 Open the Project in Android Studio
 
 Launch Android Studio
