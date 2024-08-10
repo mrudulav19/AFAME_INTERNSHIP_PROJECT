@@ -34,11 +34,17 @@ Click on Run in the top menu
 Select your device/emulator to install and run the app
 
 # Usage
+
 Launch the App: Open the Calculator App on your device.
+
 Perform Calculations:
+
 Enter numbers using the numeric keypad.
+
 Use the operation buttons (+, -, *, /) to perform arithmetic operations.
+
 Press = to get the result.
+
 Use the C button to clear the current input.
 
 # PICTURES
